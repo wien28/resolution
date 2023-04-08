@@ -1,0 +1,26 @@
+@media (max-width: 480px){
+
+/* section */
+section{
+    height: 100px;
+}
+
+/* article */
+
+.card{
+    height: 250px;
+}
+/* footer */
+.footer_box{
+    width: 100%;
+}
+
+.hide{
+    display: none;
+}
+
+}
+@media (max-width:353px){
+    
+ 
+}

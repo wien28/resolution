@@ -1,0 +1,67 @@
+.conteiner {
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+    border: 7px solid red;
+}
+
+/* header */
+
+header {
+    width: 90%;
+    margin: 0 auto 20px auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.header_box {
+
+    background-color: rgb(255, 166, 0);
+    width: 48%;
+    height: 60px;
+
+}
+h1{
+    font-size: 30px;
+}
+
+/* section */
+section {
+    margin: 0 auto 20px auto;
+    background-color: green;
+    width: 90%;
+    height: 350px;
+}
+
+/* article */
+article {
+    margin: 0 auto 20px auto;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    width: 30%;
+    height: 250px;
+    background-color: rgb(54, 54, 193);
+}
+
+/* footer */
+
+footer {
+    margin: 0 auto 20px auto;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.footer_box {
+
+    width: 23%;
+    height: 150px;
+    background-color: blueviolet;
+}
